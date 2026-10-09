@@ -1,6 +1,7 @@
 # 飞书销售运营轻量 CRM｜跟进记录闭环
 
 一个基于飞书多维表格搭建的销售运营练习作品，用虚拟数据演示商机跟进任务如何被记录、明确责任、识别到期并支持复盘。
+https://my.feishu.cn/base/RZTTb63W3aekGss33FgcaqCDnTg?from=from_copylink
 
 ## 项目背景
 
